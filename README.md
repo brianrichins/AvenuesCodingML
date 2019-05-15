@@ -1,6 +1,6 @@
 # Machine Learning with Python and Jupyter Notebooks
 
-This tutorial from Max Taggart is a hands-on introduction to the concepts of Machine Learning. It uses a simple  data set (age, height, weight, gender) to create a gender prediction model.
+This tutorial from Max Taggart is a hands-on introduction to the concepts of Machine Learning. It uses a simple data set (age, height, weight, gender) to create a gender prediction model.
 
 You may wish to take notes on the concepts within your local copy of the notebook as you follow along during the workshop.
 
@@ -11,8 +11,10 @@ Install the following on your laptop before starting:
 
   or
 
-- [Python (2.7 or 3.3+)](https://www.python.org/downloads/)
+- [Python (2.7 or 3.3+)](https://www.python.org/downloads/) using the official installers; Max has also created a terminal PowerShell module for [installing Python and creating virtual environments](https://github.com/HealthCatalyst/PythonPowershellUtilities).
 - [Jupyter Notebook](https://jupyter.org/install)
+
+
 
 Also the following Python libraries (e.g. via  `pip`). Windows users may need to add their Python install to their `PATH` to run Python commands from a terminal.
 
